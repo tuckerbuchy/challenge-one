@@ -2,7 +2,7 @@
 Simple Node developer challenge.
 
 ### Goal
-Clone this repo and build a simple key/value store CLI using only the core Node API. Once you have finished the challenge zip and email your solution to the email provided.
+Clone this repo and build a simple key/value store CLI using only the core Node API. Once you have finished the challenge, please deliver it by providing a GitHub repo, Dropbox, or Google Drive link.
 
 ### Store API
 
