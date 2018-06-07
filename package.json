@@ -1,0 +1,22 @@
+{
+  "name": "challenge-one",
+  "version": "1.0.0",
+  "description": "Simple Node developer challenge.",
+  "main": "index.js",
+  "bin":{
+    "store":"./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuckerbuchy/challenge-one.git"
+  },
+  "author": "tuckerbuchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuckerbuchy/challenge-one/issues"
+  },
+  "homepage": "https://github.com/tuckerbuchy/challenge-one#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
